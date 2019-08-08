@@ -6,7 +6,7 @@ Check out the slides at https://docs.google.com/presentation/d/1UjAnkKWzqCRq9YHJ
 
 Check out the demo notebook at https://github.com/jcheong0428/mind2019/blob/master/tutorials/Introduction_To_JupyterNotebooks.ipynb
 
-#Resources
+# Resources 
 Nbviewer for sharing notebooks: https://nbviewer.jupyter.org/  
 NeuroHackademy intro Jupyter by the Fernando Perez the creator himself:
 https://www.youtube.com/watch?v=xOKPKiAhey4  
